@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Aaromal-eng
+- 👀 I’m interested in lua
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on web building or app building
+- 📫 How to reach me: aaromal.l.nair.12@gmail.com
+- 😄 Pronouns: i dont do that stuff
+- ⚡ Fun fact: I build Pc and know coding 
